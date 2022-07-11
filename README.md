@@ -42,25 +42,47 @@ Se agrega una impresora con direccion IP usando la IP de la PC donde esta instal
 Tabla de contenido
 
 Manual de Operación Versión 1.2.1............... 3
+
 Instalación ............... 3
+
 Ejecución de PrinTax ............... 3
+
 Desactivación de botones ............... 5
+
 Operación regular............... 6
+
 Apertura de caja ............... 7
+
 Reporte X ............... 7
+
 Reporte Z ............... 8
+
 Copia de factura ............... 8
+
 Tarifas de Impuesto ............... 9
+
 Manual de Programación Versión 1.2.1 ...............11
+
 Envío de comando desde ODOO - Programación Python ............... 11
+
 Tipos de operación ............... 12
+
 Parametros según tipo de mensaje ............... 13
+
 Apertura y cierre de caja ............... 15
+
 Carga de cajeros ............... 15
+
 Carga de medios de pago ............... 16
+
 Encabezados y pie de página ...............16
+
 Impresión de facturas ............... 16
+
 Ejemplo de factura & Reimpresión de facturas ............... 18
+
 Notas de crédito & Reimpresión de notas de crédito ............... 19
+
 Documentos no fiscales & Tarifas de impuesto ............... 20
+
 Reimpresión de reporte de cierre Z ............... 21
