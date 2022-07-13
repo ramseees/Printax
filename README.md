@@ -10,7 +10,7 @@ Odoo >> PrinTax >> Impresora Fiscal
 
 PrinTax Versión 1.2.1 [compatible con la nueva providencia del IGTF]
 Compatible con IMPRESORAS FISCALES THE FACTORY HKA Y PNP EPSON VENEZUELA
-La licencia de PrinTax esta publicada en; https://articulo.mercadolibre.com.ve/MLV-719260678-licencia-printax-para-modulo-impresora-fiscal-basado-en-odoo-_JM
+La licencia de PrinTax esta publicada en; https://articulo.mercadolibre.com.ve/MLV-719650297-licencia-printax-para-modulo-impresora-fiscal-basado-en-odoo-_JM#position=2&search_layout=grid&type=item&tracking_id=f3a52d46-0830-4860-abad-f413acece2a2
 
 El módulo utiliza el programa PrinTax para emitir facturas en impresores fiscales desde
 facturación y POS. Estos impresores están adaptados a la legislación de
@@ -23,7 +23,7 @@ Esta versión está homologada con los módulos fiscales desarrollados por:
 
 
 
-El PrinTax es un programa que hace un puente entre módulo de facturación Odoo y un impresor fiscal. Desde Odoo se envían los mensajes a PrinTax, este lo interpreta y lo adapta al impresor configurado. El PrinTax responde al Odoo con el resultado de la operación sea exitosa o fallida. (La licencia de PrinTax esta publicada en; https://articulo.mercadolibre.com.ve/MLV-719260678-licencia-printax-para-modulo-impresora-fiscal-basado-en-odoo-_JM)
+El PrinTax es un programa que hace un puente entre módulo de facturación Odoo y un impresor fiscal. Desde Odoo se envían los mensajes a PrinTax, este lo interpreta y lo adapta al impresor configurado. El PrinTax responde al Odoo con el resultado de la operación sea exitosa o fallida. (La licencia de PrinTax esta publicada en; https://articulo.mercadolibre.com.ve/MLV-719650297-licencia-printax-para-modulo-impresora-fiscal-basado-en-odoo-_JM#position=2&search_layout=grid&type=item&tracking_id=f3a52d46-0830-4860-abad-f413acece2a2)
 
 Vendemos la licencia del programa Printax , un solo pago. se da periodo de prueba con modulos POS y facturacion compatible y probado con Odoo 13. Aparte de manual de uso y comandos desde ODOO - Programación Python. El modulo en Odoo es codigo abierto y lo puede modificar y desarrollar y usar su propio modulo que desarrolle en Odoo.
 
